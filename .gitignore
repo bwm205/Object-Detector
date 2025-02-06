@@ -141,4 +141,4 @@ cython_debug/
 
 
 #Training .json info
-formatted_annotations
+formatted_annotations.json
