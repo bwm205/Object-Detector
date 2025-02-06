@@ -137,8 +137,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-**/.DS_Store
+.DS_Store
 
 
 #Training .json info
-**formatted_annotations.json
+formatted_annotations
